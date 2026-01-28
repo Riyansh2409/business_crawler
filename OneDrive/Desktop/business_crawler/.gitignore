@@ -1,0 +1,4 @@
+__pycache__/
+crawler.log
+output_*.csv
+.env
